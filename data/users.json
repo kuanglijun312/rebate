@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Joy",
+    "inviteCode": "acDEs12",
+    "rate": 0.2
+  },
+  {
+    "id": 2,
+    "name": "David",
+    "inviteCode": "cdaAse2",
+    "rate": 0.15
+  },
+  {
+    "id": 3,
+    "name": "Musk",
+    "inviteCode": "cdaAse2",
+    "rate": 0.17
+  },
+  {
+    "id": 4,
+    "name": "Leo",
+    "inviteCode": "ebe51e7c096287c8",
+    "rate": 0.1
+  },
+  {
+    "id": 5,
+    "name": "Iwan",
+    "inviteCode": "57fe2477cc3c1ba5",
+    "rate": 0.13
+  },
+  {
+    "id": 6,
+    "name": "Trump",
+    "inviteCode": "0054ebf92ff5228a",
+    "rate": 0.01
+  },
+  {
+    "id": 7,
+    "name": "Cinia",
+    "inviteCode": "871c09aa51dccdae",
+    "rate": 0.07
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "uid": 1,
+        "amount": 1000,
+        "fee": 10,
+        "timestamp": 1749125898130
+    },
+    {
+        "id": 2,
+        "uid": 2,
+        "amount": 500,
+        "fee": 5,
+        "timestamp": 1749169098130
+    },
+    {
+        "id": 3,
+        "uid": 2,
+        "amount": 2000,
+        "fee": 20,
+        "timestamp": 1749140298130
+    },
+    {
+        "id": 4,
+        "uid": 2,
+        "amount": 750,
+        "fee": 7.5,
+        "timestamp": 1749176298130
+    },
+    {
+        "id": 5,
+        "uid": 3,
+        "amount": 1500,
+        "fee": 15,
+        "timestamp": 1749104298130
+    }
+]

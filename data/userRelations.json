@@ -1,0 +1,26 @@
+[
+  {
+    "uid": 2,
+    "inviter_uid": 1
+  },
+  {
+    "uid": 3,
+    "inviter_uid": 1
+  },
+  {
+    "inviter_uid": 1,
+    "uid": 4
+  },
+  {
+    "inviter_uid": 1,
+    "uid": 5
+  },
+  {
+    "inviter_uid": 1,
+    "uid": 6
+  },
+  {
+    "inviter_uid": 4,
+    "uid": 7
+  }
+]
