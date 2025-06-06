@@ -25,7 +25,7 @@ export const InviteDetail = () => {
   }
 
   useEffect(() => {
-    if (data.pagination) {
+    if (data?.pagination) {
         setPagination(data.pagination)
     }
   }, [data])
