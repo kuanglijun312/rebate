@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  envPrefix: 'VITE_', // 只暴露VITE_前缀的环境变量给客户端
 })
