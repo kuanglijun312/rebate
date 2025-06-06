@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3001'
+const BASE_URL = import.meta.env.MODE === "development" ? 'http://localhost:3001' : import.meta.env.BASE_URL
 
 let token = localStorage.getItem('token')
 export const setToken = (newToken: string) => {

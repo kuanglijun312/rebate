@@ -22,6 +22,7 @@
    ```
 2. 安装依赖：
    ```bash
+   npm install
    npm install -ws
    ```
 3. 运行项目：
